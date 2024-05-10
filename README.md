@@ -10,3 +10,5 @@ The dataset contains the following files:
 train.csv: Training set containing features and labels.
 test.csv: Test set containing features.
 gender_submission.csv: Sample submission file containing the format for submission to Kaggle.
+
+Score: 0.78229 (SVM RBF C=100)
